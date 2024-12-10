@@ -4,9 +4,9 @@ Desenvolvi esse projeto focando apenas na funcionalidade especifica e como esta 
 
 # Docker (runner comand)
 
-[code]
+...
 docker-compose up -d --force-recreate
-[/code]
+...
 
 # Wordpress
 
