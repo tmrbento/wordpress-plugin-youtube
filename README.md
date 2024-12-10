@@ -1,6 +1,6 @@
 # Bem-Vindo
 
-Desenvolvi esse projeto focando apenas na funcionalidade especifica e como esta com urgência focando nos detalhes funcionais.
+Desenvolvi esse projeto focando apenas na funcionalidade especifica e como esta com urgência deu enfâse a funcionalidade questionada.
 
 # Docker (runner comand)
 
